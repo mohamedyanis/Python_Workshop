@@ -1,2 +1,2 @@
-Python Workshop notebooks
+Python Workshop Notebooks
 
